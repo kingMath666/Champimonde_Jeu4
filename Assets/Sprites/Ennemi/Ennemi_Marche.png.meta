@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: 9ab54430e4e7f5a498be77b07e79944c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ennemi_Marche0000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 834
+        width: 115
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5882609, y: 0.48655915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63a494a3a2d1d14caa75a40f0a5882a
+      internalID: -5573865442090054733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0001
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 832
+        width: 114
+        height: 188
+      alignment: 9
+      pivot: {x: 0.59342104, y: 0.48138297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6023c8baa62aa40bef8d12ffa15e54
+      internalID: 3931620307709678991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0002
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 831
+        width: 112
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5950893, y: 0.47883597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9237a081331b62044a7137699d24c6a9
+      internalID: -4262491413797105959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0003
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 829
+        width: 110
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5968182, y: 0.473822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0061390230848478f05fef06c4b117
+      internalID: 7256636688237845034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0004
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 828
+        width: 110
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5968182, y: 0.47135416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824b2192d4ebd9f46bee2e554e749f67
+      internalID: 5289719990960313797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0005
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 826
+        width: 108
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5986111, y: 0.46649486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c173159ff92ff48bb1321a1317b175
+      internalID: 1180769021523163149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0006
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 825
+        width: 108
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5986111, y: 0.46410257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e07400813386c45a82a326037f3005
+      internalID: 7767052707054211875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0007
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 824
+        width: 107
+        height: 196
+      alignment: 9
+      pivot: {x: 0.59485984, y: 0.46173468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3da7a5b30c6d341b45cb49931a3744
+      internalID: 3157338383288662836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0008
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 622
+        width: 106
+        height: 198
+      alignment: 9
+      pivot: {x: 0.59103775, y: 0.4570707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb95944f4b12744f8733a12f230dfe7
+      internalID: -8710245840477643907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0009
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 621
+        width: 106
+        height: 199
+      alignment: 9
+      pivot: {x: 0.59103775, y: 0.45477387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be6cb741b3308b41aa2d5dc93b416ab
+      internalID: -5115632074451250528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0010
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 622
+        width: 106
+        height: 198
+      alignment: 9
+      pivot: {x: 0.59103775, y: 0.4570707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0e0a27063eec44384258b9b94ffacd
+      internalID: -6820060049218649618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0011
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 623
+        width: 107
+        height: 197
+      alignment: 9
+      pivot: {x: 0.59485984, y: 0.45939085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d274a133a1a5643b18c1ec8a820338
+      internalID: -5820248018211265720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0012
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 625
+        width: 107
+        height: 195
+      alignment: 9
+      pivot: {x: 0.59485984, y: 0.46410257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496d3a3b20d6fe04f80c10a14da00259
+      internalID: -3004964703489336597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0013
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 626
+        width: 108
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5986111, y: 0.46649486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363ce1ba509ea5741a47e934ccc21c66
+      internalID: -27005992956012231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0014
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 627
+        width: 108
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5986111, y: 0.46891192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbb64dc288b67341855b9b897eea33b
+      internalID: 6561540114338654806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0015
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 628
+        width: 110
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5968182, y: 0.47135416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85a3b1368c5edc448b02162dec807de
+      internalID: -7542503450938213438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0016
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 630
+        width: 112
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5950893, y: 0.4763158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3412c81751db43f498605a7181ac4eab
+      internalID: -3181175662889045859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0017
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 428
+        width: 112
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5950893, y: 0.47883597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3ad61ef955fe14c9a2636f3911b233
+      internalID: 3353932628951502971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0018
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 429
+        width: 114
+        height: 188
+      alignment: 9
+      pivot: {x: 0.59342104, y: 0.48138297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4ebd580161a684994df93eda6ec44f
+      internalID: -1151972226568551381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0019
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 834
+        width: 115
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5882609, y: 0.48655915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47620a03e926134e97def6f02d08127
+      internalID: -7459090408786516581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0020
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 429
+        width: 114
+        height: 188
+      alignment: 9
+      pivot: {x: 0.59342104, y: 0.48138297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92a6de8f19c33b4c9090e2872ed6bb9
+      internalID: -1209664439295209321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0021
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 428
+        width: 112
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5950893, y: 0.47883597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065a656de512d374f8050375343ff14d
+      internalID: -6324587157750644591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0022
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 427
+        width: 112
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5950893, y: 0.4763158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a539731df90e11b40a22034f11797b50
+      internalID: 424570008668798787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0023
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 426
+        width: 110
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5968182, y: 0.473822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c21d195946a3374dbce6516474036b1
+      internalID: 760098110563665722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0024
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 424
+        width: 110
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5968182, y: 0.46891192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8348b114c92ea4dadd749762aec194
+      internalID: 1569888643259172494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0025
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 423
+        width: 108
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5986111, y: 0.46649486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc998b4e121a3d4caa3456b105bed4f
+      internalID: 4898774857412221737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0026
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 224
+        width: 108
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5986111, y: 0.46410257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001e07fda0dd9a2438426fc42bee760a
+      internalID: 541540573797702696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0027
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 223
+        width: 107
+        height: 196
+      alignment: 9
+      pivot: {x: 0.59485984, y: 0.46173468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13da7b0c5aec3654ca763f6b8a65d07e
+      internalID: 6372412185833260480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0028
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 222
+        width: 107
+        height: 197
+      alignment: 9
+      pivot: {x: 0.59485984, y: 0.45939085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3a655be9b2d35428e105d34b031373
+      internalID: -5972067949510491306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0029
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 220
+        width: 106
+        height: 199
+      alignment: 9
+      pivot: {x: 0.59103775, y: 0.45477387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a2eb1fd7c3bd54c9e85766078ff3be
+      internalID: -1913889299550215928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0030
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 221
+        width: 107
+        height: 198
+      alignment: 9
+      pivot: {x: 0.59485984, y: 0.4570707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74372b983f8a937468a989715892dba6
+      internalID: -655498112418499127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0031
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 223
+        width: 107
+        height: 196
+      alignment: 9
+      pivot: {x: 0.59485984, y: 0.46173468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c0b5c781b5e654085dc15131f9bb8e
+      internalID: 1257880145483319292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0032
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 224
+        width: 108
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5986111, y: 0.46410257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cad0c1edf080241a7d3e51667b6b54
+      internalID: -4915365389096496313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0033
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 225
+        width: 108
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5986111, y: 0.46649486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5110e7979c9d444adfc4bb455ee481
+      internalID: -1894820124968348935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0034
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 226
+        width: 110
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5968182, y: 0.46891192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d8e637b1ad2dc45b92907029417f0b
+      internalID: 8702375156330215017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0035
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 25
+        width: 110
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5968182, y: 0.473822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77acf105f4e7b34fa59583024bf3ded
+      internalID: -4045364608548475441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0036
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 26
+        width: 112
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5950893, y: 0.4763158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c764da58914f9a44886ab0422252e067
+      internalID: 1549349343370538888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0037
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 27
+        width: 112
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5950893, y: 0.47883597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe04b0e6c941cd74fad33873999a0832
+      internalID: -1638740512940179166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0038
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 28
+        width: 114
+        height: 188
+      alignment: 9
+      pivot: {x: 0.59342104, y: 0.48138297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b13573e9c5f3c49a3eb92c06fbd5ff
+      internalID: 2856278477789669783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemi_Marche0039
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 834
+        width: 115
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5882609, y: 0.48655915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc2f9c3a6cd17f48a3a95890d88e2b6
+      internalID: 802546186828109702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ennemi_Marche0000: -5573865442090054733
+      Ennemi_Marche0001: 3931620307709678991
+      Ennemi_Marche0002: -4262491413797105959
+      Ennemi_Marche0003: 7256636688237845034
+      Ennemi_Marche0004: 5289719990960313797
+      Ennemi_Marche0005: 1180769021523163149
+      Ennemi_Marche0006: 7767052707054211875
+      Ennemi_Marche0007: 3157338383288662836
+      Ennemi_Marche0008: -8710245840477643907
+      Ennemi_Marche0009: -5115632074451250528
+      Ennemi_Marche0010: -6820060049218649618
+      Ennemi_Marche0011: -5820248018211265720
+      Ennemi_Marche0012: -3004964703489336597
+      Ennemi_Marche0013: -27005992956012231
+      Ennemi_Marche0014: 6561540114338654806
+      Ennemi_Marche0015: -7542503450938213438
+      Ennemi_Marche0016: -3181175662889045859
+      Ennemi_Marche0017: 3353932628951502971
+      Ennemi_Marche0018: -1151972226568551381
+      Ennemi_Marche0019: -7459090408786516581
+      Ennemi_Marche0020: -1209664439295209321
+      Ennemi_Marche0021: -6324587157750644591
+      Ennemi_Marche0022: 424570008668798787
+      Ennemi_Marche0023: 760098110563665722
+      Ennemi_Marche0024: 1569888643259172494
+      Ennemi_Marche0025: 4898774857412221737
+      Ennemi_Marche0026: 541540573797702696
+      Ennemi_Marche0027: 6372412185833260480
+      Ennemi_Marche0028: -5972067949510491306
+      Ennemi_Marche0029: -1913889299550215928
+      Ennemi_Marche0030: -655498112418499127
+      Ennemi_Marche0031: 1257880145483319292
+      Ennemi_Marche0032: -4915365389096496313
+      Ennemi_Marche0033: -1894820124968348935
+      Ennemi_Marche0034: 8702375156330215017
+      Ennemi_Marche0035: -4045364608548475441
+      Ennemi_Marche0036: 1549349343370538888
+      Ennemi_Marche0037: -1638740512940179166
+      Ennemi_Marche0038: 2856278477789669783
+      Ennemi_Marche0039: 802546186828109702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

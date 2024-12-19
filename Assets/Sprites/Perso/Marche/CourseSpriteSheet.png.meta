@@ -1,0 +1,1051 @@
+fileFormatVersion: 2
+guid: 2d084b75a1d64fa46af8de97fb8d2b8a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Course_AvecVague0000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 833
+        width: 49
+        height: 187
+      alignment: 9
+      pivot: {x: 0.3795918, y: 0.594385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980692618abe06e44ad1088277861c49
+      internalID: -2407394570826861971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0001
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 833
+        width: 64
+        height: 187
+      alignment: 9
+      pivot: {x: 0.46249998, y: 0.5890374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758d66535a6ab80458b3df17f05fc65f
+      internalID: -1824524729091898778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0002
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 834
+        width: 84
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5428571, y: 0.586828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26210cf3339c57449944118ba661678
+      internalID: 1858418607598233336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0003
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 835
+        width: 101
+        height: 185
+      alignment: 9
+      pivot: {x: 0.590099, y: 0.5845946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cc168d0618abd40ad24703851853c7
+      internalID: 3575084201981190315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0004
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 836
+        width: 116
+        height: 184
+      alignment: 9
+      pivot: {x: 0.6086207, y: 0.58233696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5067e339888e152449a28b6cf5224c8b
+      internalID: -3620564493047874225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0005
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 835
+        width: 104
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5923077, y: 0.5845946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ab1ea40dc9e894980a44120ea2a80a
+      internalID: -6786264950040757204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0006
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 834
+        width: 91
+        height: 186
+      alignment: 9
+      pivot: {x: 0.56703293, y: 0.586828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5cdcfa55b1cd84e9950a189e6eabca
+      internalID: 5904326752410074053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0007
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 833
+        width: 76
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5210526, y: 0.5890374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8e63a88437b904a9d99dcd4f4654f1
+      internalID: -2867837384108465187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0008
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 832
+        width: 60
+        height: 188
+      alignment: 9
+      pivot: {x: 0.4433333, y: 0.5912234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1a0b8d7c4d0b34dbe978cddbf7d3fa
+      internalID: -2517839702048457137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0009
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 832
+        width: 50
+        height: 188
+      alignment: 9
+      pivot: {x: 0.39199996, y: 0.59654254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec094945957a1f749a5d5e6eae744f07
+      internalID: -7281361826950958352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0010
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 832
+        width: 49
+        height: 188
+      alignment: 9
+      pivot: {x: 0.3795918, y: 0.5912234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5cb776bc554714b8c0c71b3462e30d
+      internalID: -536752687192934409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0011
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 832
+        width: 48
+        height: 188
+      alignment: 9
+      pivot: {x: 0.36666664, y: 0.5912234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2db3d10e5021f47bea48e883a65fa3
+      internalID: -2212865427663024217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0012
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 832
+        width: 57
+        height: 188
+      alignment: 9
+      pivot: {x: 0.46666664, y: 0.5912234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d67695c5ea5c64b9dc8cf169364732
+      internalID: 2419695203102476839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0013
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 641
+        width: 67
+        height: 187
+      alignment: 9
+      pivot: {x: 0.51641786, y: 0.5890374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e04092777483a40bfe336e85b2e7b1
+      internalID: -6581047346666338038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0014
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 641
+        width: 79
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5392405, y: 0.5890374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2b129ebfa53740abb8b13646a80fd
+      internalID: -7942903947674648463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0015
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 642
+        width: 90
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5511111, y: 0.586828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f778234cf46419b4baf969ef2bbf56cc
+      internalID: -5401808384218071107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0016
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 642
+        width: 79
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5392405, y: 0.586828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0ecc690c19c4e439ded931f4cf01d5
+      internalID: -7649499472485921369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0017
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 641
+        width: 67
+        height: 187
+      alignment: 9
+      pivot: {x: 0.51641786, y: 0.5890374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a876bd293eccc44a88d0b25480a1ae
+      internalID: 2776466628735304697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0018
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 641
+        width: 57
+        height: 187
+      alignment: 9
+      pivot: {x: 0.46666664, y: 0.5890374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bb12559880c2c43bca038d3520879c
+      internalID: -6537420188919879388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0019
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 640
+        width: 48
+        height: 188
+      alignment: 9
+      pivot: {x: 0.36666664, y: 0.5912234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820bed0a9e9015a4394ab09f18d4145b
+      internalID: 7741432541581935430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0020
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 640
+        width: 49
+        height: 188
+      alignment: 9
+      pivot: {x: 0.3795918, y: 0.5912234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1198c24433f16d94ebb37ca842c79520
+      internalID: 8018522672601196278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0021
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 640
+        width: 50
+        height: 188
+      alignment: 9
+      pivot: {x: 0.39199996, y: 0.59654254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa665eec36fd3543beaaf661bd6c6ae
+      internalID: 2794354384503053057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0022
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 640
+        width: 63
+        height: 188
+      alignment: 9
+      pivot: {x: 0.46984124, y: 0.5912234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4245ddd415cfeef4f8c3399888a3ac26
+      internalID: -7480925719388283527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0023
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 641
+        width: 81
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5506173, y: 0.5890374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243eaccff416f7f4aabe984e4675b345
+      internalID: 3838274223813270794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0024
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 642
+        width: 98
+        height: 186
+      alignment: 9
+      pivot: {x: 0.59795916, y: 0.586828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f1a0186db18764ea9eb627ffe7c723
+      internalID: 35830749501065094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0025
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 643
+        width: 112
+        height: 185
+      alignment: 9
+      pivot: {x: 0.62142855, y: 0.5845946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09595f858d0a724093c036115fb2595
+      internalID: -1758549344351626430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0026
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 450
+        width: 100
+        height: 186
+      alignment: 9
+      pivot: {x: 0.606, y: 0.586828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4a359cbc6509840939bc3bee1c5ba6
+      internalID: 6517000140091083947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0027
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 449
+        width: 88
+        height: 187
+      alignment: 9
+      pivot: {x: 0.575, y: 0.5890374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9623ea325925ab4488879a0fcea61673
+      internalID: -8950102965557877112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0028
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 449
+        width: 74
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5216216, y: 0.5890374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e6b414a25f26c4a9b79bfea7844f4f
+      internalID: 4743629659359272702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0029
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 448
+        width: 59
+        height: 188
+      alignment: 9
+      pivot: {x: 0.43389827, y: 0.5912234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db62015a02539b340a2093bad6a3e922
+      internalID: -6974823306930332834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0030
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 832
+        width: 50
+        height: 188
+      alignment: 9
+      pivot: {x: 0.39199996, y: 0.59654254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3a1e951d96d9f41b5e9a975d039aa5
+      internalID: 8492333974345641886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0031
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 448
+        width: 49
+        height: 188
+      alignment: 9
+      pivot: {x: 0.3795918, y: 0.5912234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f267827c2a853344e9ea284ec1c53ff0
+      internalID: 8203051004369035737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0032
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 448
+        width: 48
+        height: 188
+      alignment: 9
+      pivot: {x: 0.36666664, y: 0.5912234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f811855b2fa1f4540b932284b09f5411
+      internalID: 6396990654229066936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0033
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 449
+        width: 56
+        height: 187
+      alignment: 9
+      pivot: {x: 0.45714283, y: 0.5890374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf7a2fc3dfdc9e4c93a6cc4b8a5f82e
+      internalID: -4979798673402180450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0034
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 449
+        width: 67
+        height: 187
+      alignment: 9
+      pivot: {x: 0.51641786, y: 0.5890374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478c610cd809ed849a1c1dae95e55f70
+      internalID: 7440750157381653525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0035
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 450
+        width: 78
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5333333, y: 0.586828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de6fa500dbeed94993406e84f6d0ff9
+      internalID: 5987733539273509273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0036
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 450
+        width: 89
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5460674, y: 0.586828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b741f828bc03de4fa019e24cf667d1f
+      internalID: -100312946304789106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0037
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 450
+        width: 77
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5272727, y: 0.586828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35d826b964278e48a9ba4fb5a63d7d5
+      internalID: -946851567947077146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0038
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 449
+        width: 63
+        height: 187
+      alignment: 9
+      pivot: {x: 0.48571426, y: 0.5890374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c511bc7ababaa83498a6620ba781617d
+      internalID: -8931871021060416160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0039
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 448
+        width: 51
+        height: 188
+      alignment: 9
+      pivot: {x: 0.40392154, y: 0.5912234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79663392d2a5bb4aa08af2dd530cd64
+      internalID: -6704397616767653436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0040
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 448
+        width: 48
+        height: 188
+      alignment: 9
+      pivot: {x: 0.36666664, y: 0.5912234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e468216539f7737428ca6c537275467c
+      internalID: 2814353240522431271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Course_AvecVague0041
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 256
+        width: 50
+        height: 188
+      alignment: 9
+      pivot: {x: 0.39199996, y: 0.59654254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10151a164f8aeb8409b48e46990009a6
+      internalID: -1140525844948469164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Course_AvecVague0000: -2407394570826861971
+      Course_AvecVague0001: -1824524729091898778
+      Course_AvecVague0002: 1858418607598233336
+      Course_AvecVague0003: 3575084201981190315
+      Course_AvecVague0004: -3620564493047874225
+      Course_AvecVague0005: -6786264950040757204
+      Course_AvecVague0006: 5904326752410074053
+      Course_AvecVague0007: -2867837384108465187
+      Course_AvecVague0008: -2517839702048457137
+      Course_AvecVague0009: -7281361826950958352
+      Course_AvecVague0010: -536752687192934409
+      Course_AvecVague0011: -2212865427663024217
+      Course_AvecVague0012: 2419695203102476839
+      Course_AvecVague0013: -6581047346666338038
+      Course_AvecVague0014: -7942903947674648463
+      Course_AvecVague0015: -5401808384218071107
+      Course_AvecVague0016: -7649499472485921369
+      Course_AvecVague0017: 2776466628735304697
+      Course_AvecVague0018: -6537420188919879388
+      Course_AvecVague0019: 7741432541581935430
+      Course_AvecVague0020: 8018522672601196278
+      Course_AvecVague0021: 2794354384503053057
+      Course_AvecVague0022: -7480925719388283527
+      Course_AvecVague0023: 3838274223813270794
+      Course_AvecVague0024: 35830749501065094
+      Course_AvecVague0025: -1758549344351626430
+      Course_AvecVague0026: 6517000140091083947
+      Course_AvecVague0027: -8950102965557877112
+      Course_AvecVague0028: 4743629659359272702
+      Course_AvecVague0029: -6974823306930332834
+      Course_AvecVague0030: 8492333974345641886
+      Course_AvecVague0031: 8203051004369035737
+      Course_AvecVague0032: 6396990654229066936
+      Course_AvecVague0033: -4979798673402180450
+      Course_AvecVague0034: 7440750157381653525
+      Course_AvecVague0035: 5987733539273509273
+      Course_AvecVague0036: -100312946304789106
+      Course_AvecVague0037: -946851567947077146
+      Course_AvecVague0038: -8931871021060416160
+      Course_AvecVague0039: -6704397616767653436
+      Course_AvecVague0040: 2814353240522431271
+      Course_AvecVague0041: -1140525844948469164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

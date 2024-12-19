@@ -1,0 +1,4 @@
+SonCle: https://opengameart.org/content/level-up-power-up-coin-get-13-sounds
+SonPorte: https://opengameart.org/content/4-door-closes
+SonSaut: https://opengameart.org/content/air-woosh-move
+SonChute: https://opengameart.org/content/fantozzis-footsteps-grasssand-stone

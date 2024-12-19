@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 047a17cecebc9ae4abf3f70ebdd85cad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _doubleSautPrix: {fileID: 11400000, guid: 1946c5dadc0c1a74b805c9a578718061, type: 2}
+  - _vitessePrix: {fileID: 11400000, guid: 053beb6cf91bf84469564fc61d831d5d, type: 2}
+  - _bouclierPrix: {fileID: 11400000, guid: b0f20726e9a6dbd4c9680e96771c8f56, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

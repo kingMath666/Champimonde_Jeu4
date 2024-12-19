@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8e791c0e1b56f47479a7771a79177797
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _perso: {instanceID: 0}
+  - _clipAtterissage: {fileID: 8300000, guid: 6db3b24175faed142a0faa17a9a0c646, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

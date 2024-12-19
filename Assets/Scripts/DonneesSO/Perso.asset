@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 047a17cecebc9ae4abf3f70ebdd85cad, type: 3}
+  m_Name: Perso
+  m_EditorClassIdentifier: 
+  _navigation: {fileID: 11400000, guid: ee1f13315c1ce344a878957a78bf41cb, type: 2}
+  _niveauIni: 1
+  _argentIni: 0
+  _pointageIni: 0
+  _vitesseIni: 5
+  _vieMax: 3
+  _valeurBonusMarguerite: 500
+  _valeurBonusActivateur: 100
+  _valeurBonusTemps: 10
+  _possedeClef: 0
+  _niveau: 1
+  _argent: 0
+  _pointage: 140
+  _vies: 0
+  _forceBouclier: 5
+  _forceBouclierMax: 5
+  _vitesse: 5
+  _possedeDoubleSaut: 0
+  _possedePouvoir: 0
+  _possedeAcceleration: 0
+  _possedeBouclier: 0
+  _possedeBonusFleurs: 0
+  _possedeBonusActivateur: 0
+  _doubleSautPrix: {fileID: 11400000, guid: 1946c5dadc0c1a74b805c9a578718061, type: 2}
+  _vitessePrix: {fileID: 11400000, guid: 053beb6cf91bf84469564fc61d831d5d, type: 2}
+  _bouclierPrix: {fileID: 11400000, guid: b0f20726e9a6dbd4c9680e96771c8f56, type: 2}
+  _pouvoirPrix: {fileID: 11400000, guid: 02e1542472a00d14ca9681d648662e10, type: 2}

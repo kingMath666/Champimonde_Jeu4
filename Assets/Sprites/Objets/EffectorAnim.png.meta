@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: fbe23dba572fd9e49a0eb7635d7fe270
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Champignon0000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 189
+        width: 94
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.21349204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221c1893e5536f645b79b2b026b8eb16
+      internalID: 7783149540612646533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 189
+        width: 94
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.21349204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd652d3031782f419d291b80e11d58a
+      internalID: 1262948104552124510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0002
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 200
+        width: 94
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.25865382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd6d8def6760094cba84ed48d062923
+      internalID: 1248695077523534942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0003
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 200
+        width: 94
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.25865382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7179d0a8b7313694f8967693079a067d
+      internalID: -7758420566000675970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0004
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 211
+        width: 94
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.32804874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b17766c3e0b58747a77cabadf6adb96
+      internalID: 2029796920441183470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0005
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 211
+        width: 94
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.32804874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68449917691df704694e913f3fe7f0ab
+      internalID: 8229220818736360966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0006
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 200
+        width: 94
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.25865382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e340c945f166043801e542af601a47
+      internalID: 628669573829295881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0007
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 200
+        width: 94
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.25865382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45edb076bc66e5b4da9e3479bceb5282
+      internalID: -433866070205319121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0008
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 188
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.21015622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e539b9708c00394087e0323350ead25
+      internalID: 4410232923578115911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0009
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 188
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.21015622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf79e869c25aba4db99c3f1263e8aa9
+      internalID: -6811231525387974746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0010
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 188
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.21015622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3edcd3a660a75c41a1b5ffad653034c
+      internalID: -399397078795500482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0011
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 176
+        width: 94
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.17697366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb74d0e0788c4f44aae6d87e29d10fa
+      internalID: -1620753002766091852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0012
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 176
+        width: 94
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.17697366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1e5279339bea549a84846334dcd1e4
+      internalID: -3600303485881245430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0013
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 176
+        width: 94
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.17697366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f34cb99915b9049bc5da4a4d518f81
+      internalID: -5685906146659778896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0014
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 82
+        width: 94
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.14944442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427358bc043b5084b9eebe0b5c92eadf
+      internalID: 3330329230877753129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0015
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 82
+        width: 94
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.14944442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74c1373ed8919a4e80b2eae97321e7c
+      internalID: 5831298385637336854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0016
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 97
+        width: 94
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.1793333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa01d929cd142b24abadc5d6172a0831
+      internalID: 6901822670914518826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0017
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 97
+        width: 94
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.1793333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c2321b12859d74bb4a03080e93843e
+      internalID: 3117376652942617379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0018
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 97
+        width: 94
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.1793333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667387ad0f3d811418aea04ebe7990fa
+      internalID: 3407970741479762479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champignon0019
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 188
+        width: 94
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.21015622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad91629c141df1b44865e4e2615d5ff6
+      internalID: 6831315331032950919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Champignon0000: 7783149540612646533
+      Champignon0001: 1262948104552124510
+      Champignon0002: 1248695077523534942
+      Champignon0003: -7758420566000675970
+      Champignon0004: 2029796920441183470
+      Champignon0005: 8229220818736360966
+      Champignon0006: 628669573829295881
+      Champignon0007: -433866070205319121
+      Champignon0008: 4410232923578115911
+      Champignon0009: -6811231525387974746
+      Champignon0010: -399397078795500482
+      Champignon0011: -1620753002766091852
+      Champignon0012: -3600303485881245430
+      Champignon0013: -5685906146659778896
+      Champignon0014: 3330329230877753129
+      Champignon0015: 5831298385637336854
+      Champignon0016: 6901822670914518826
+      Champignon0017: 3117376652942617379
+      Champignon0018: 3407970741479762479
+      Champignon0019: 6831315331032950919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

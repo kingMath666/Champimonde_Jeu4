@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chute.png">
+	<!-- Created with Adobe Animate version 24.0.2.12 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Chute0000" x="4" y="4" width="79" height="140" pivotX="57.7" pivotY="179.8" frameX="-7" frameY="0" frameWidth="118" frameHeight="298"/>
+	<SubTexture name="Chute0001" x="87" y="4" width="83" height="144" frameX="-8" frameY="-9" frameWidth="118" frameHeight="298"/>
+	<SubTexture name="Chute0002" x="174" y="4" width="85" height="150" frameX="-10" frameY="-18" frameWidth="118" frameHeight="298"/>
+	<SubTexture name="Chute0003" x="263" y="4" width="88" height="156" frameX="-11" frameY="-27" frameWidth="118" frameHeight="298"/>
+	<SubTexture name="Chute0004" x="355" y="4" width="89" height="163" frameX="-12" frameY="-35" frameWidth="118" frameHeight="298"/>
+	<SubTexture name="Chute0005" x="448" y="4" width="90" height="168" frameX="-12" frameY="-44" frameWidth="118" frameHeight="298"/>
+	<SubTexture name="Chute0006" x="542" y="4" width="89" height="174" frameX="-13" frameY="-53" frameWidth="118" frameHeight="298"/>
+	<SubTexture name="Chute0007" x="635" y="4" width="78" height="181" frameX="-24" frameY="-62" frameWidth="118" frameHeight="298"/>
+	<SubTexture name="Chute0008" x="717" y="4" width="65" height="185" frameX="-37" frameY="-71" frameWidth="118" frameHeight="298"/>
+	<SubTexture name="Chute0009" x="786" y="4" width="63" height="184" frameX="-39" frameY="-81" frameWidth="118" frameHeight="298"/>
+	<SubTexture name="Chute0010" x="853" y="4" width="83" height="184" frameX="-29" frameY="-90" frameWidth="118" frameHeight="298"/>
+	<SubTexture name="Chute0011" x="4" y="193" width="94" height="183" frameX="-20" frameY="-99" frameWidth="118" frameHeight="298"/>
+	<SubTexture name="Chute0012" x="102" y="193" width="105" height="182" frameX="-11" frameY="-108" frameWidth="118" frameHeight="298"/>
+	<SubTexture name="Chute0013" x="211" y="193" width="118" height="180" frameX="0" frameY="-118" frameWidth="118" frameHeight="298"/>
+	<SubTexture name="Chute0014" x="211" y="193" width="118" height="180" frameX="0" frameY="-118" frameWidth="118" frameHeight="298"/>
+</TextureAtlas>

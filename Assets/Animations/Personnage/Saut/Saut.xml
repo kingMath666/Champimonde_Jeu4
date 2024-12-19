@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Saut.png">
+	<!-- Created with Adobe Animate version 24.0.2.12 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Saut0000" x="4" y="4" width="50" height="189" pivotX="50.55" pivotY="179.8" frameX="-32" frameY="-100" frameWidth="99" frameHeight="289"/>
+	<SubTexture name="Saut0001" x="58" y="4" width="49" height="187" frameX="-32" frameY="-100" frameWidth="99" frameHeight="289"/>
+	<SubTexture name="Saut0002" x="111" y="4" width="49" height="186" frameX="-32" frameY="-100" frameWidth="99" frameHeight="289"/>
+	<SubTexture name="Saut0003" x="164" y="4" width="52" height="184" frameX="-32" frameY="-101" frameWidth="99" frameHeight="289"/>
+	<SubTexture name="Saut0004" x="220" y="4" width="58" height="183" frameX="-31" frameY="-101" frameWidth="99" frameHeight="289"/>
+	<SubTexture name="Saut0005" x="282" y="4" width="64" height="182" frameX="-30" frameY="-101" frameWidth="99" frameHeight="289"/>
+	<SubTexture name="Saut0006" x="350" y="4" width="69" height="181" frameX="-30" frameY="-101" frameWidth="99" frameHeight="289"/>
+	<SubTexture name="Saut0007" x="423" y="4" width="68" height="178" frameX="-15" frameY="-87" frameWidth="99" frameHeight="289"/>
+	<SubTexture name="Saut0008" x="4" y="197" width="76" height="173" frameX="-7" frameY="-72" frameWidth="99" frameHeight="289"/>
+	<SubTexture name="Saut0009" x="84" y="197" width="80" height="161" frameX="-3" frameY="-57" frameWidth="99" frameHeight="289"/>
+	<SubTexture name="Saut0010" x="168" y="197" width="77" height="154" frameX="-3" frameY="-43" frameWidth="99" frameHeight="289"/>
+	<SubTexture name="Saut0011" x="249" y="197" width="78" height="148" frameX="-2" frameY="-29" frameWidth="99" frameHeight="289"/>
+	<SubTexture name="Saut0012" x="331" y="197" width="78" height="143" frameX="-1" frameY="-15" frameWidth="99" frameHeight="289"/>
+	<SubTexture name="Saut0013" x="413" y="197" width="79" height="140" frameX="0" frameY="0" frameWidth="99" frameHeight="289"/>
+	<SubTexture name="Saut0014" x="413" y="197" width="79" height="140" frameX="0" frameY="0" frameWidth="99" frameHeight="289"/>
+</TextureAtlas>
